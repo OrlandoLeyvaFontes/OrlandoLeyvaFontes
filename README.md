@@ -41,7 +41,3 @@ no elegí este mundo, pero aprendí a querer.  "*
 
 ---
 
-*Hecho con ❤️ por Orlando Leyva*
-
-
-<!-- Creado con ❤️ por Orlando Leyva -->
