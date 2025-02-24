@@ -1,10 +1,10 @@
 # ¡Hola! 👋 Soy Orlando Leyva Fontes
 
-*"Y si mañana es como ayer otra vez
-Lo que fue hermoso será horrible después
-No es solo una cuestión
-De elecciones
-No elegí este mundo, pero aprendí a querer"*
+*"Y si mañana es como ayer, otra vez,  
+lo que fue hermoso, será horrible después.  
+No es solo una cuestión,  
+de elecciones,  
+no elegí este mundo, pero aprendí a querer.  "*
 
 ## 🌐 Conecta conmigo
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/orlandoleyf)
